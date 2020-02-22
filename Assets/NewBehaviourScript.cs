@@ -8,6 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         print("Hello, Cat!");
+        print("Hello, Dog!");
     }
 
     // Update is called once per frame
